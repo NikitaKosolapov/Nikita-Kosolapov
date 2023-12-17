@@ -5,7 +5,7 @@
 {
     "aboutMe": {
         "name": "Nikita Kosolapov",
-        "company": "Solit Clouds",
+        "company": "PCH",
         "role": "iOS developer",
         "links": {
             "telegram": "https://t.me/NikitaKosolapov"
